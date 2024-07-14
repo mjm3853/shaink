@@ -1,2 +1,6 @@
 # shaink
-Shaink - A Golf App powered by AI
+Shaink - Accelerating the journey to enjoy golf more
+
+## tools
+
+### video
