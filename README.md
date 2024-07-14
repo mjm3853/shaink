@@ -36,3 +36,6 @@ poetry install
 poetry run main
 ```
 
+## References
+
+Current implementation based on https://github.com/technovangelist/videoprojects/tree/main/2024-05-31-agentframeworks
